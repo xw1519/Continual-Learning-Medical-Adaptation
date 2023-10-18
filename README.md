@@ -8,16 +8,17 @@ Continuous Learning (CL) has gained increasing interest in medical-field setting
 If you find our paper or this resource helpful, please consider cite: 
 
 
-## Type1
-Description about Type1.
+## CLASS-INCREMENTAL LEARNING (CIL)
+Class-Incremental Learning (CIL) aims to acquire a continuous data stream with new classes, where no task identities are provided in testing.
 
-| Paper Name | Link | Additional Info |
+### Medical Data Exemplar Selection
+| Paper Title | Year | Conference/Journal
 |------------|------|-----------------|
-| Paper1     | [Link to Paper1](#) | Some more details about Paper1 |
+| [S3R: Shape and Semantics-based Selective Regularization for Explainable Continual Segmentation across Multiple Sites](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10078916) | 2023 | Transactions on Medical Imaging |
 | Paper2     | [Link to Paper2](#) | Some more details about Paper2 |
 | ...        | ...  | ...             |
 
-## Type2
+## TASK-INCREMENTAL LEARNING (TIL)
 Description about Type2.
 
 | Paper Name | Link | Additional Info |
@@ -26,7 +27,7 @@ Description about Type2.
 | PaperB     | [Link to PaperB](#) | Some more details about PaperB |
 | ...        | ...  | ...             |
 
-## Type3
+## DOMAIN-INCREMENTAL LEARNING (DIL)
 Description about Type3.
 
 | Paper Name | Link | Additional Info |
@@ -37,10 +38,10 @@ Description about Type3.
 
 ---
 
-## License
-Information about your project's license.
+## Contact
+We welcome all researchers to contribute to this repository.
 
-## Contributors
-List of contributors or acknowledgment.
+Email: xinyaowu49@gmail.com
+
 
 
