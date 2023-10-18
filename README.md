@@ -134,9 +134,19 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
     </tr>
   </thead>
   <tbody>
-    <!-- Second Table Data Here -->
-    <!-- ... -->
-  </tbody>
+    <tr>
+        <td><a href="https://www.nature.com/articles/s41467-021-25858-z">Dynamic memory to alleviate catastrophic forgetting in continual learning with medical imaging</a></td>
+        <td>2021</td>
+        <td>Nature Communication</td>
+        <td><a href="https://github.com/cirmuw/dynamicmemory">GitHub</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://arxiv.org/abs/2307.12471">Neuromorphic Neuromodulation: Towards the next generation of on-device AI-revolution in electroceuticals</a></td>
+        <td>2023</td>
+        <td>Preprint</td>
+        <td>None</td>
+    </tr>
+</tbody>
 </table>
 
 ### Medical Data Overlapping Classes
