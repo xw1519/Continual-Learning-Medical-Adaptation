@@ -13,7 +13,7 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
 
 ### Medical Data Exemplar Selection
 | Paper Title | Year | Conference/Journal | Code 
-|------------|------|-----------------|------|
+|-----------------------------------------------------------------------------------------------------|------|-----------------|-----------------------------------------------------------------------------------------|
 | [S3R: Shape and Semantics-based Selective Regularization for Explainable Continual Segmentation across Multiple Sites](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10078916) | 2023 | Transactions on Medical Imaging | https://github.com/jingyzhang/S3R
 | [SCOPE: Structural Continuity Preservation for Medical Image Segmentation](https://arxiv.org/abs/2304.14572) | 2023 | Preprint | None
 | [A Continual Learning Approach for Cross-Domain White Blood Cell Classification](https://link.springer.com/chapter/10.1007/978-3-031-45857-6_14) | 2023 | MICCAI | https://github.com/marrlab/UACL
