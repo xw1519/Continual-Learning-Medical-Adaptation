@@ -18,10 +18,13 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
 | [SCOPE: Structural Continuity Preservation for Medical Image Segmentation](https://arxiv.org/abs/2304.14572) | 2023 | Preprint |
 | ...        | ...  | ...             |
 
+### Memory and Computation Inefficiency
+| Paper Title | Year | Conference/Journal
+
 ## TASK-INCREMENTAL LEARNING (TIL)
 Description about Type2.
 
-| Paper Name | Link | Additional Info |
+| Paper Title | Year | Conference/Journal
 |------------|------|-----------------|
 | PaperA     | [Link to PaperA](#) | Some more details about PaperA |
 | PaperB     | [Link to PaperB](#) | Some more details about PaperB |
@@ -30,7 +33,7 @@ Description about Type2.
 ## DOMAIN-INCREMENTAL LEARNING (DIL)
 Description about Type3.
 
-| Paper Name | Link | Additional Info |
+| Paper Title | Year | Conference/Journal
 |------------|------|-----------------|
 | PaperX     | [Link to PaperX](#) | Some more details about PaperX |
 | PaperY     | [Link to PaperY](#) | Some more details about PaperY |
