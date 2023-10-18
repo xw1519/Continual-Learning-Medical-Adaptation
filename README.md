@@ -21,24 +21,24 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
 
 ### Memory and Computation Inefficiency
 | Paper Title | Year | Conference/Journal | Code 
-|------------|------|-----------------|------|
+|-----------------------------------------------------------------------------------------------------|------|-----------------|-----------------------------------------------------------------------------------------|
 | [Dynamic memory to alleviate catastrophic forgetting in continual learning with medical imaging](https://www.nature.com/articles/s41467-021-25858-z) | 2021 | Nature Communication | https://github.com/cirmuw/dynamicmemory
 | [Neuromorphic Neuromodulation: Towards the next generation of on-device AI-revolution in electroceuticals](https://arxiv.org/abs/2307.12471) | 2023 | Preprint | None
 
 ### Medical Data Overlapping Classes
 | Paper Title | Year | Conference/Journal | Code 
-|------------|------|-----------------|------|
+|-----------------------------------------------------------------------------------------------------|------|-----------------|-----------------------------------------------------------------------------------------|
 | [Revisiting Distillation for Continual Learning on Visual Question Localized-Answering in Robotic Surgery](https://arxiv.org/pdf/2307.12045.pdf) | 2023 | MICCAI | https://github.com/longbai1006/CS-VQLA
 
 ### Medical data low-quality generation
 | Paper Title | Year | Conference/Journal | Code 
-|------------|------|-----------------|------|
+|-----------------------------------------------------------------------------------------------------|------|-----------------|-----------------------------------------------------------------------------------------|
 | [Hybrid Neural Diffeomorphic Flow for Shape Representation and Generation via Triplane](https://arxiv.org/pdf/2307.01957.pdf) | 2023 | Preprint | None
 | [Generative appearance replay for continual unsupervised domain adaptation](https://arxiv.org/pdf/2301.01211.pdf) | 2023 | Preprint | None
 
 ### Other Medical Deep Learning Frameworks
 | Paper Title | Year | Conference/Journal | Code 
-|------------|------|-----------------|------|
+|-----------------------------------------------------------------------------------------------------|------|-----------------|-----------------------------------------------------------------------------------------|
 | [Accelerating Batch Active Learning Using Continual Learning Techniques](https://www.researchgate.net/publication/370687872_Accelerating_Batch_Active_Learning_Using_Continual_Learning_Techniques) | 2023 | Preprint | None
 | [A framework for dynamically training and adapting deep reinforcement learning models to different, low-compute, and continuously changing radiology deployment environments](https://arxiv.org/pdf/2306.05310.pdf) | 2023 | Preprint | None
 
