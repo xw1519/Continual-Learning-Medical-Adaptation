@@ -9,13 +9,13 @@ If you find our paper or this resource helpful, please consider cite:
 
 
 ## CLASS-INCREMENTAL LEARNING (CIL)
-Class-Incremental Learning (CIL) aims to acquire a continuous data stream with new classes, where no task identities are provided in testing.
+Class-Incremental Learning (CIL) aims to acquire a continuous data stream with new classes, where no task identities are provided in testing. Its replay-based strategies to resist forgetting lead to following medical-area challenges.
 
 ### Medical Data Exemplar Selection
 | Paper Title | Year | Conference/Journal
 |------------|------|-----------------|
 | [S3R: Shape and Semantics-based Selective Regularization for Explainable Continual Segmentation across Multiple Sites](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10078916) | 2023 | Transactions on Medical Imaging |
-| Paper2     | [Link to Paper2](#) | Some more details about Paper2 |
+| [SCOPE: Structural Continuity Preservation for Medical Image Segmentation](https://arxiv.org/abs/2304.14572) | 2023 | Preprint |
 | ...        | ...  | ...             |
 
 ## TASK-INCREMENTAL LEARNING (TIL)
