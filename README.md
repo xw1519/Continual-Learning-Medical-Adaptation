@@ -97,6 +97,8 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
 |-----------------------------------------------------------------------------------------------------|------|-----------------|-----------------------------------------------------------------------------------------|
 | [Hybrid Neural Diffeomorphic Flow for Shape Representation and Generation via Triplane](https://arxiv.org/pdf/2307.01957.pdf) | 2023 | Preprint | None        |
 | [Generative appearance replay for continual unsupervised domain adaptation](https://arxiv.org/pdf/2301.01211.pdf) | 2023 | Preprint | None        |
+| [Universal adversarial perturbations for multiple classification tasks with quantum classifiers](https://arxiv.org/pdf/2306.11974.pdf) | 2023 | Preprint | None        |
+| [Conditional Diffusion Replay for Continual Learning in Medical Settings](https://openreview.net/pdf?id=avmAZiWarU) | 2023 | ICML | None        |
 
 ### Other Medical Deep Learning Frameworks
 | Paper Title | Year | Conference/Journal | Code 
