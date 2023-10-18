@@ -11,6 +11,45 @@ If you find our paper or this resource helpful, please consider cite:
 ## CLASS-INCREMENTAL LEARNING (CIL)
 Class-Incremental Learning (CIL) aims to acquire a continuous data stream with new classes, where no task identities are provided in testing. Its replay-based strategies to resist forgetting lead to following medical-area challenges.
 
+<table>
+  <thead>
+    <tr>
+      <th style="width:150px">Header 1</th>
+      <th style="width:200px">Header 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Value 1</td>
+      <td>Description 1</td>
+    </tr>
+    <tr>
+      <td>Value 2</td>
+      <td>Description 2</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th style="width:150px">Header A</th>
+      <th style="width:200px">Header B</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Entry 1</td>
+      <td>Info 1</td>
+    </tr>
+    <tr>
+      <td>Entry 2</td>
+      <td>Info 2</td>
+    </tr>
+  </tbody>
+</table>
+
+
 | Medical Data Exemplar Selection | Year | Conference/Journal | Code 
 |-----------------------------------------------------------------------------------------------------|------|-----------------|-----------------------------------------------------------------------------------------|
 | [S3R: Shape and Semantics-based Selective Regularization for Explainable Continual Segmentation across Multiple Sites](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10078916) | 2023 | Transactions on Medical Imaging | https://github.com/jingyzhang/S3R
