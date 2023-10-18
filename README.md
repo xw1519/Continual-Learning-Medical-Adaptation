@@ -56,12 +56,14 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
 </table>
 
 ### Memory and Computation Inefficiency
-</table>
-</tbody>
+<table>
+  <colgroup>
+    <col style="width:60%">
+    <col style="width:10%">
+    <col style="width:20%">
+    <col style="width:10%">
+  </colgroup>
   <thead>
-    <tr>
-      <td colspan="4"></td> <!-- Blank row for spacing -->
-    </tr>
     <tr>
       <th>Paper Title</th>
       <th>Year</th>
@@ -82,7 +84,7 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
         <td>Preprint</td>
         <td>None</td>
     </tr>
-</tbody>
+    <tbody>
 </table>
 
 ### Medical Data Overlapping Classes
