@@ -19,9 +19,9 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
 | ...        | ...  | ...             |
 
 ### Memory and Computation Inefficiency
-| Paper Title | Year | Conference/Journal
-|------------|------|-----------------|
-| [Dynamic memory to alleviate catastrophic forgetting in continual learning with medical imaging](https://www.nature.com/articles/s41467-021-25858-z) | 2021 | Nature Communication |
+| Paper Title | Year | Conference/Journal | Code 
+|------------|------|-----------------|------|
+| [Dynamic memory to alleviate catastrophic forgetting in continual learning with medical imaging](https://www.nature.com/articles/s41467-021-25858-z) | 2021 | Nature Communication | https://github.com/cirmuw/dynamicmemory
 | ...        | ...  | ...             |
 
 ## TASK-INCREMENTAL LEARNING (TIL)
