@@ -9,12 +9,13 @@ If you find our paper or this resource helpful, please consider cite:
 
 
 ## CLASS-INCREMENTAL LEARNING (CIL)
-Class-Incremental Learning (CIL) aims to acquire a continuous data stream with new classes, where no task identities are provided in testing. Its replay-based strategies to resist forgetting lead to following medical-area challenges.
+Class-Incremental Learning (CIL) aims to acquire a continuous data stream with new classes, where no task identities are provided in testing. Its replay-based strategies to resist forgetting lead to following medical-area challenges and troubleshooting.
 
+### Medical Data Exemplar Selection
 <table>
   <thead>
     <tr>
-      <th style="width:60%">Medical Data Exemplar Selection</th>
+      <th style="width:60%">Paper Title</th>
       <th style="width:10%">Year</th>
       <th style="width:20%">Conference/Journal</th>
       <th style="width:10%">Code</th>
@@ -50,10 +51,11 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
 
 <br>
 
+### Memory and Computation Inefficiency
 <table>
   <thead>
     <tr>
-      <th style="width:60%">Memory and Computation Inefficiency</th>
+      <th style="width:60%">Paper Title</th>
       <th style="width:10%">Year</th>
       <th style="width:20%">Conference/Journal</th>
       <th style="width:10%">Code</th>
@@ -77,14 +79,14 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
 
 
 
-| Medical Data Exemplar Selection | Year | Conference/Journal | Code 
+| Paper Title | Year | Conference/Journal | Code 
 |-----------------------------------------------------------------------------------------------------|------|-----------------|-----------------------------------------------------------------------------------------|
 | [S3R: Shape and Semantics-based Selective Regularization for Explainable Continual Segmentation across Multiple Sites](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10078916) | 2023 | Transactions on Medical Imaging | https://github.com/jingyzhang/S3R
 | [SCOPE: Structural Continuity Preservation for Medical Image Segmentation](https://arxiv.org/abs/2304.14572) | 2023 | Preprint | None
 | [A Continual Learning Approach for Cross-Domain White Blood Cell Classification](https://link.springer.com/chapter/10.1007/978-3-031-45857-6_14) | 2023 | MICCAI | https://github.com/marrlab/UACL
 | [DOCTOR: A Multi-Disease Detection Continual Learning Framework Based on Wearable Medical Sensors](https://arxiv.org/pdf/2305.05738.pdf) | 2023 | Preprint | None
 
-| Memory and Computation Inefficiency | Year | Conference/Journal | Code 
+| Paper Title | Year | Conference/Journal | Code 
 |-----------------------------------------------------------------------------------------------------|------|-----------------|-----------------------------------------------------------------------------------------|
 | [Dynamic memory to alleviate catastrophic forgetting in continual learning with medical imaging](https://www.nature.com/articles/s41467-021-25858-z) | 2021 | Nature Communication | https://github.com/cirmuw/dynamicmemory
 | [Neuromorphic Neuromodulation: Towards the next generation of on-device AI-revolution in electroceuticals](https://arxiv.org/abs/2307.12471) | 2023 | Preprint | None
