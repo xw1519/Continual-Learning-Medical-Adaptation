@@ -87,6 +87,27 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
     <tbody>
 </table>
 
+<h3>Medical Data Overlapping Classes</h3>
+
+<table border="1" cellspacing="0" cellpadding="5">
+    <thead>
+        <tr>
+            <th>Paper Title</th>
+            <th>Year</th>
+            <th>Conference/Journal</th>
+            <th>Code</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2307.12045.pdf">Revisiting Distillation for Continual Learning on Visual Question Localized-Answering in Robotic Surgery</a></td>
+            <td>2023</td>
+            <td>MICCAI</td>
+            <td><a href="https://github.com/longbai1006/CS-VQLA">GitHub</a></td>
+        </tr>
+    </tbody>
+</table>
+
 ### Medical Data Overlapping Classes
 | Paper Title | Year | Conference/Journal | Code 
 |-----------------------------------------------------------------------------------------------------|------|-----------------|-----------------------------------------------------------------------------------------|
