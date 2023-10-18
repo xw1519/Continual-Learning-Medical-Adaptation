@@ -13,69 +13,6 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
 
 ### Medical Data Exemplar Selection
 <table>
-  <thead>
-    <tr>
-      <th style="width:60%">Paper Title</th>
-      <th style="width:10%">Year</th>
-      <th style="width:20%">Conference/Journal</th>
-      <th style="width:10%">Code</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-        <td><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10078916">S3R: Shape and Semantics-based Selective Regularization for Explainable Continual Segmentation across Multiple Sites</a></td>
-        <td>2023</td>
-        <td>Transactions on Medical Imaging</td>
-        <td><a href="https://github.com/jingyzhang/S3R">GitHub</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://arxiv.org/abs/2304.14572">SCOPE: Structural Continuity Preservation for Medical Image Segmentation</a></td>
-        <td>2023</td>
-        <td>Preprint</td>
-        <td>None</td>
-    </tr>
-    <tr>
-        <td><a href="https://link.springer.com/chapter/10.1007/978-3-031-45857-6_14">A Continual Learning Approach for Cross-Domain White Blood Cell Classification</a></td>
-        <td>2023</td>
-        <td>MICCAI</td>
-        <td><a href="https://github.com/marrlab/UACL">GitHub</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://arxiv.org/pdf/2305.05738.pdf">DOCTOR: A Multi-Disease Detection Continual Learning Framework Based on Wearable Medical Sensors</a></td>
-        <td>2023</td>
-        <td>Preprint</td>
-        <td>None</td>
-    </tr>
-</tbody>
-</table>
-
-### Memory and Computation Inefficiency
-<table>
-  <thead>
-    <tr>
-      <th style="width:60%">Paper Title</th>
-      <th style="width:10%">Year</th>
-      <th style="width:20%">Conference/Journal</th>
-      <th style="width:10%">Code</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://www.nature.com/articles/s41467-021-25858-z">Dynamic memory to alleviate catastrophic forgetting in continual learning with medical imaging</a></td>
-      <td>2021</td>
-      <td>Nature Communication</td>
-      <td><a href="https://github.com/cirmuw/dynamicmemory">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://arxiv.org/abs/2307.12471">Neuromorphic Neuromodulation: Towards the next generation of on-device AI-revolution in electroceuticals</a></td>
-      <td>2023</td>
-      <td>Preprint</td>
-      <td>None</td>
-    </tr>
-  </tbody>
-</table>
-
-<table>
   <colgroup>
     <col style="width:60%">
     <col style="width:10%">
@@ -83,9 +20,6 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
     <col style="width:10%">
   </colgroup>
   <thead>
-    <tr>
-      <th colspan="4">Medical Data Exemplar Selection</th>
-    </tr>
     <tr>
       <th>Paper Title</th>
       <th>Year</th>
