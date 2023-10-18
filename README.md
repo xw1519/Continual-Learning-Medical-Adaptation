@@ -52,8 +52,10 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
         <td>Preprint</td>
         <td>None</td>
     </tr>
-
+    <tbody>
+</table>
 ### Memory and Computation Inefficiency
+</table>
 </tbody>
   <thead>
     <tr>
