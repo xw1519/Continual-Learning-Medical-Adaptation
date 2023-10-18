@@ -160,7 +160,7 @@ Task-Incremental Learning (TIL) aims to learn a sequence of different tasks, whe
             <td><a href="https://github.com/ljwztc/CLIP-Driven-Universal-Model">GitHub</a></td>
         </tr>
         <tr>
-            <td><a href="(https://arxiv.org/pdf/2306.02416.pdf)">Training Like a Medical Resident: Universal Medical Image Segmentation via Context Prior Learning</a></td>
+            <td><a href="https://arxiv.org/pdf/2306.02416.pdf">Training Like a Medical Resident: Universal Medical Image Segmentation via Context Prior Learning</a></td>
             <td>2023</td>
             <td>Preprint</td>
             <td><a href="https://github.com/yhygao/universal-medical-image-segmentation">GitHub</a></td>
