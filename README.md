@@ -128,22 +128,51 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
 | [A framework for dynamically training and adapting deep reinforcement learning models to different, low-compute, and continuously changing radiology deployment environments](https://arxiv.org/pdf/2306.05310.pdf) | 2023 | Preprint | None        |
 
 ## TASK-INCREMENTAL LEARNING (TIL)
-Description about Type2.
+Task-Incremental Learning (TIL) aims to learn a sequence of different tasks, where task identities are provided in both training and testing stages. Its optimization strategies observe challenges in medical settings.
 
-| Paper Title | Year | Conference/Journal
-|------------|------|-----------------|
-| PaperA     | [Link to PaperA](#) | Some more details about PaperA |
-| PaperB     | [Link to PaperB](#) | Some more details about PaperB |
-| ...        | ...  | ...             |
+### Similar Tasks in Multi-task Setting
+<table>
+  <colgroup>
+    <col style="width:60%">
+    <col style="width:10%">
+    <col style="width:20%">
+    <col style="width:10%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Paper Title</th>
+      <th>Year</th>
+      <th>Conference/Journal</th>
+      <th>Code</th>
+    </tr>
+  </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2303.06580.pdf">Towards General Purpose Medical AI: Continual Learning Medical Foundation Model</a></td>
+            <td>2023</td>
+            <td>Preprint</td>
+            <td>None</td>
+        </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2301.00785.pdf">CLIP-Driven Universal Model for Organ Segmentation and Tumor Detection</a></td>
+            <td>2023</td>
+            <td>ICCV</td>
+            <td><a href="https://github.com/ljwztc/CLIP-Driven-Universal-Model">GitHub</a></td>
+        </tr>
+        <tr>
+            <td><a href="(https://arxiv.org/pdf/2306.02416.pdf)">Training Like a Medical Resident: Universal Medical Image Segmentation via Context Prior Learning</a></td>
+            <td>2023</td>
+            <td>Preprint</td>
+            <td><a href="https://github.com/yhygao/universal-medical-image-segmentation">GitHub</a></td>
+        </tr>
+    <tbody>
+</table>
+
+### Need of CL Type Integration in zero-shot learning, few-shot learning and domain shifting
 
 ## DOMAIN-INCREMENTAL LEARNING (DIL)
-Description about Type3.
+Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse domains. Its regularization- and distillation-based strategies give rise to corresponding challenges in the medical area. 
 
-| Paper Title | Year | Conference/Journal
-|------------|------|-----------------|
-| PaperX     | [Link to PaperX](#) | Some more details about PaperX |
-| PaperY     | [Link to PaperY](#) | Some more details about PaperY |
-| ...        | ...  | ...             |
 
 ---
 
