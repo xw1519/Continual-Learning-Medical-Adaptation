@@ -264,6 +264,48 @@ Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse
 </table>
 
 ### Privacy Protection
+<table>
+  <colgroup>
+    <col style="width:60%">
+    <col style="width:10%">
+    <col style="width:20%">
+    <col style="width:10%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Paper Title</th>
+      <th>Year</th>
+      <th>Conference/Journal</th>
+      <th>Code</th>
+    </tr>
+  </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://arxiv.org/abs/2109.04197.pdf">A distillation-based approach integrating continual learning and federated learning for pervasive services</a></td>
+            <td>2021</td>
+            <td>preprint</td>
+            <td>None</td>
+        </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2204.13591.pdf">Continual Learning for Peer-to-Peer Federated Learning: A Study on Automated Brain Metastasis Identification</a></td>
+            <td>2022</td>
+            <td>preprint</td>
+            <td>None</td>
+        </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2204.13591.pdf">Deep Anatomical Federated Network (Dafne): an open client/server framework for the continuous collaborative improvement of deep-learning-based medical image segmentation</a></td>
+            <td>2023</td>
+            <td>preprint</td>
+            <td>None</td>
+        </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2111.13394.pdf">Non-IID data and Continual Learning processes in Federated Learning: A long road ahead</a></td>
+            <td>2023</td>
+            <td>preprint</td>
+            <td>None</td>
+        </tr>
+    <tbody>
+</table>
 
 ### Low Task Accuracy
 
