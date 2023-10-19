@@ -269,7 +269,7 @@ Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse
 
 ### Necessity to Combine Multiple CL Types
 
-## BENCHMARKS CONTINUAL LEARNING
+## CONTINUAL LEARNING BASELINES
 Finetune is typically employed as the baseline model without incorporating any mechanisms to mitigate forgetting. Others are listed below.
 <table>
   <colgroup>
