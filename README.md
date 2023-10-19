@@ -173,7 +173,56 @@ Task-Incremental Learning (TIL) aims to learn a sequence of different tasks, whe
 ## DOMAIN-INCREMENTAL LEARNING (DIL)
 Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse domains. Its regularization- and distillation-based strategies give rise to corresponding challenges in the medical area. 
 
+### Cross-domain Transferability
 
+### Bias and Overfitting
+
+### Data Scarcity
+
+### Privacy Protection
+
+### Low Task Accuracy
+
+### Necessity to Combine Multiple CL Types
+
+## BENCHMARKS CONTINUAL LEARNING
+Finetune is typically employed as the baseline model without incorporating any mechanisms to mitigate forgetting. Others are listed below.
+<table>
+  <colgroup>
+    <col style="width:60%">
+    <col style="width:10%">
+    <col style="width:30%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Paper Title</th>
+      <th>Techniques</th>
+      <th>Code</th>
+    </tr>
+  </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://arxiv.org/abs/1611.07725">iCaRL: Incremental Classifier and Representation Learning</a></td>
+            <td>Replay-based</td>
+            <td><a href="http://www.github.com/srebuffi/iCaRL">GitHub</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://arxiv.org/abs/1706.08840">Gradient Episodic Memory for Continual Learning</a></td>
+            <td>Replay-based</td>
+            <td><a href="https://github.com/facebookresearch/GradientEpisodicMemory">GitHub</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://arxiv.org/abs/1612.00796">Overcoming catastrophic forgetting in neural networks</a></td>
+            <td>Regularization-based</td>
+            <td><a href="https://github.com/shivamsaboo17/Overcoming-Catastrophic-forgetting-in-Neural-Networks">GitHub</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://arxiv.org/abs/1704.01920">Encoder Based Lifelong Learning</a></td>
+            <td>Regularization-based</td>
+            <td><a href="https://github.com/rahafaljundi/Encoder-Based-Lifelong-learning">GitHub</a></td>
+        </tr>
+    <tbody>
+</table>
 ---
 
 ## Contact
