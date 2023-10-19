@@ -206,8 +206,62 @@ Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse
 </table>
 
 ### Bias and Overfitting
+<table>
+  <colgroup>
+    <col style="width:60%">
+    <col style="width:10%">
+    <col style="width:20%">
+    <col style="width:10%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Paper Title</th>
+      <th>Year</th>
+      <th>Conference/Journal</th>
+      <th>Code</th>
+    </tr>
+  </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2307.12625.pdf">De-confounding Representation Learning for Counterfactual Inference on Continuous Treatment via Generative Adversarial Network</a></td>
+            <td>2023</td>
+            <td>preprint</td>
+            <td>None</td>
+        </tr>
+    <tbody>
+</table>
 
 ### Data Scarcity
+<table>
+  <colgroup>
+    <col style="width:60%">
+    <col style="width:10%">
+    <col style="width:20%">
+    <col style="width:10%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Paper Title</th>
+      <th>Year</th>
+      <th>Conference/Journal</th>
+      <th>Code</th>
+    </tr>
+  </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://arxiv.org/abs/2306.14020">Individualized Dosing Dynamics via Neural Eigen Decomposition</a></td>
+            <td>2023</td>
+            <td>preprint</td>
+            <td>None</td>
+        </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2304.07025.pdf">Continuous time recurrent neural networks: overview and application to forecasting blood glucose in the intensive care unit</a></td>
+            <td>2023</td>
+            <td>preprint</td>
+            <td><a href="http://www.github.com/oizin/irregular-ts">GitHub</a></td>
+        </tr>
+    <tbody>
+</table>
 
 ### Privacy Protection
 
