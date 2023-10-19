@@ -174,6 +174,36 @@ Task-Incremental Learning (TIL) aims to learn a sequence of different tasks, whe
 Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse domains. Its regularization- and distillation-based strategies give rise to corresponding challenges in the medical area. 
 
 ### Cross-domain Transferability
+<table>
+  <colgroup>
+    <col style="width:60%">
+    <col style="width:10%">
+    <col style="width:20%">
+    <col style="width:10%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Paper Title</th>
+      <th>Year</th>
+      <th>Conference/Journal</th>
+      <th>Code</th>
+    </tr>
+  </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://arxiv.org/abs/2308.13324">ConSlide: Asynchronous Hierarchical Interaction Transformer with Breakup-Reorganize Rehearsal for Continual Whole Slide Image Analysis</a></td>
+            <td>2023</td>
+            <td>MICCAI</td>
+            <td><a href="https://github.com/HKU-MedAI/ConSlide">GitHub</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://arxiv.org/abs/2305.11012">SDC-UDA: Volumetric Unsupervised Domain Adaptation Framework for Slice-Direction Continuous Cross-Modality Medical Image Segmentation</a></td>
+            <td>2023</td>
+            <td>CVPR</td>
+            <td>None</td>
+        </tr>
+    <tbody>
+</table>
 
 ### Bias and Overfitting
 
