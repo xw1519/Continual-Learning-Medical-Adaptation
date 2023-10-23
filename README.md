@@ -5,8 +5,10 @@ Continuous Learning (CL) has gained increasing interest in medical-field setting
 
 
 ## Citation
-If you find our paper or this resource helpful, please consider cite: 
-
+If you find our paper or this resource helpful, please consider citing: 
+```
+The survey paper is coming soon.
+```
 
 ## CLASS-INCREMENTAL LEARNING (CIL)
 Class-Incremental Learning (CIL) aims to acquire a continuous data stream with new classes, where no task identities are provided in testing. Its replay-based strategies to resist forgetting lead to following medical-area challenges and troubleshooting.
