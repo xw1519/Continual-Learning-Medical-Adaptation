@@ -4,12 +4,14 @@
 ## Abstract
 Continuous Learning (CL) has gained increasing interest in medical-field settings due to its potential to address major challenges associated with data privacy, memory inefficiency, prediction robustness and detection accuracy. Various computation models, including Generation Networks, Federated Learning, Reinforcement Learning and Active Learning, have adapted CL to enhance their overall performance, leveraging the continuous nature of medical datasets. However, the primary challenge in adapting and advancing CL remains the issue of catastrophic forgetting. As a result, a comprehensive review evaluating the effectiveness of different types of CL tackling medical tasks can be of interest. In this paper, we provide an in-depth and up-to-date review on recent applications of Continual Learning in the medical discipline and an extensive discussion on their strategies to address individual tasks within the medical domain. Specifically, we categorize existing CL into two settings: Task-Incremental Learning and Class-Incremental Learning. Then we further divide them into subcategories based on their computational techniques and learning strategies. Individually, we discuss their strengths and weaknesses associated with downstream medical-area settings, and establish a correlation between each medical challenge and the corresponding insights provided by CL. In addition, we provide an overview of the benchmark medical datasets and evaluation metrics that are commonly used by researchers in the field. After a comprehensive comparison, we discuss various promising future directions of CL in medical-area adaptations. 
 
+## Note
+We welcome all researchers to contribute to this repository. If you have any questions or suggestions, or if you think your paper fits our framework and should be added to the survey, feel free to contact us through e-mail (xinyaowu49@gmail.com / jackxz@link.cuhk.edu.hk) or create an issue in this repo.
 
-## Citation
 If you find our paper or this resource helpful, please consider citing: 
 ```
 The survey paper is coming soon.
 ```
+
 
 ## CLASS-INCREMENTAL LEARNING (CIL)
 Class-Incremental Learning (CIL) aims to acquire a continuous data stream with new classes, where no task identities are provided in testing. Its replay-based strategies to resist forgetting lead to following medical-area challenges and troubleshooting.
@@ -414,10 +416,7 @@ Finetune is typically employed as the baseline model without incorporating any m
 </table>
 ---
 
-## Contact
-We welcome all researchers to contribute to this repository.
 
-Email: xinyaowu49@gmail.com
 
 
 
