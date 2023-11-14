@@ -183,6 +183,44 @@ Task-Incremental Learning (TIL) aims to learn a sequence of different tasks, whe
 ## DOMAIN-INCREMENTAL LEARNING (DIL)
 Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse domains. Its regularization- and distillation-based strategies give rise to corresponding challenges in the medical area. 
 
+### Generic Feature Selection
+<table>
+  <colgroup>
+    <col style="width:60%">
+    <col style="width:10%">
+    <col style="width:20%">
+    <col style="width:10%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Paper Title</th>
+      <th>Year</th>
+      <th>Conference/Journal</th>
+      <th>Code</th>
+    </tr>
+  </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2306.00988.pdf">Continual Learning for Abdominal Multi-Organ and Tumor Segmentation</a></td>
+            <td>2023</td>
+            <td>MICCAI</td>
+            <td><a href="https://github.com/MrGiovanni/ContinualLearning">GitHub</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2305.19404.pdf">Incremental Learning for Heterogeneous Structure Segmentation in Brain Tumor MRI</a></td>
+            <td>2023</td>
+            <td>MICCAI</td>
+            <td>None</td>
+        </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2303.13752.pdf">Leveraging Old Knowledge to Continually Learn New Classes in Medical Images</a></td>
+            <td>2023</td>
+            <td>CVPR</td>
+            <td><a href="https://github.com/EvelynChee/LO2LN.git">GitHub</a></td>
+        </tr>
+    <tbody>
+</table>
+
 ### Cross-domain Generalizability
 <table>
   <colgroup>
@@ -270,6 +308,12 @@ Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse
             <td>preprint</td>
             <td><a href="http://www.github.com/oizin/irregular-ts">GitHub</a></td>
         </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2307.05920.pdf">Unified Medical Image-Text-Label Contrastive Learning With Continuous Prompt</a></td>
+            <td>2023</td>
+            <td>preprint</td>
+            <td>None</td>
+        </tr>
     <tbody>
 </table>
 
@@ -313,70 +357,6 @@ Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse
             <td>2023</td>
             <td>preprint</td>
             <td>None</td>
-        </tr>
-    <tbody>
-</table>
-
-### Low Task Accuracy
-<table>
-  <colgroup>
-    <col style="width:60%">
-    <col style="width:10%">
-    <col style="width:20%">
-    <col style="width:10%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th>Paper Title</th>
-      <th>Year</th>
-      <th>Conference/Journal</th>
-      <th>Code</th>
-    </tr>
-  </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://arxiv.org/pdf/2307.05920.pdf">Unified Medical Image-Text-Label Contrastive Learning With Continuous Prompt</a></td>
-            <td>2023</td>
-            <td>preprint</td>
-            <td>None</td>
-        </tr>
-    <tbody>
-</table>
-
-### Necessity to Combine Multiple CL Types
-<table>
-  <colgroup>
-    <col style="width:60%">
-    <col style="width:10%">
-    <col style="width:20%">
-    <col style="width:10%">
-  </colgroup>
-  <thead>
-    <tr>
-      <th>Paper Title</th>
-      <th>Year</th>
-      <th>Conference/Journal</th>
-      <th>Code</th>
-    </tr>
-  </thead>
-    <tbody>
-        <tr>
-            <td><a href="https://arxiv.org/pdf/2306.00988.pdf">Continual Learning for Abdominal Multi-Organ and Tumor Segmentation</a></td>
-            <td>2023</td>
-            <td>MICCAI</td>
-            <td><a href="https://github.com/MrGiovanni/ContinualLearning">GitHub</a></td>
-        </tr>
-        <tr>
-            <td><a href="https://arxiv.org/pdf/2305.19404.pdf">Incremental Learning for Heterogeneous Structure Segmentation in Brain Tumor MRI</a></td>
-            <td>2023</td>
-            <td>MICCAI</td>
-            <td>None</td>
-        </tr>
-        <tr>
-            <td><a href="https://arxiv.org/pdf/2303.13752.pdf">Leveraging Old Knowledge to Continually Learn New Classes in Medical Images</a></td>
-            <td>2023</td>
-            <td>CVPR</td>
-            <td><a href="https://github.com/EvelynChee/LO2LN.git">GitHub</a></td>
         </tr>
     <tbody>
 </table>
