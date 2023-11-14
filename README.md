@@ -57,6 +57,12 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
         <td>Preprint</td>
         <td>None</td>
     </tr>
+    <tr>
+        <td><a href="https://ieeexplore.ieee.org/abstract/document/10227350">Continual Nuclei Segmentation via Prototype-wise Relation Distillation and Contrastive Learning</a></td>
+        <td>2023</td>
+        <td>TMI</td>
+        <td><a href="https://github.com/zzw-szu/CoNuSeg">GitHub</a></td>
+    </tr>
     <tbody>
 </table>
 
