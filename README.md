@@ -180,8 +180,6 @@ Task-Incremental Learning (TIL) aims to learn a sequence of different tasks, whe
     <tbody>
 </table>
 
-### Need of CL Type Integration in zero-shot learning, few-shot learning and domain shifting
-
 ## DOMAIN-INCREMENTAL LEARNING (DIL)
 Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse domains. Its regularization- and distillation-based strategies give rise to corresponding challenges in the medical area. 
 
