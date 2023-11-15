@@ -136,7 +136,7 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
 ## TASK-INCREMENTAL LEARNING (TIL)
 Task-Incremental Learning (TIL) aims to learn a sequence of different tasks, where task identities are provided in both training and testing stages. Its optimization strategies observe challenges in medical settings.
 
-### Model Universability  
+### Model Generalizability   
 <table>
   <colgroup>
     <col style="width:60%">
@@ -170,6 +170,32 @@ Task-Incremental Learning (TIL) aims to learn a sequence of different tasks, whe
             <td>2023</td>
             <td>Preprint</td>
             <td><a href="https://github.com/yhygao/universal-medical-image-segmentation">GitHub</a></td>
+        </tr>
+    <tbody>
+</table>
+
+### Data Scarcity  
+<table>
+  <colgroup>
+    <col style="width:60%">
+    <col style="width:10%">
+    <col style="width:20%">
+    <col style="width:10%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Paper Title</th>
+      <th>Year</th>
+      <th>Conference/Journal</th>
+      <th>Code</th>
+    </tr>
+  </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2304.09042.pdf">Adapter Learning in Pretrained Feature Extractor for Continual Learning of Diseases</a></td>
+            <td>2023</td>
+            <td>MICCAI</td>
+            <td><a href="https://github.com/GiantJun/CL_Pytorch">GitHub</a></td>
         </tr>
     <tbody>
 </table>
@@ -253,7 +279,7 @@ Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse
     <tbody>
 </table>
 
-### Bias and Overfitting
+### Imbalanced Datasets
 <table>
   <colgroup>
     <col style="width:60%">
