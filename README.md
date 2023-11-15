@@ -40,12 +40,6 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
         <td>None</td>
     </tr>
     <tr>
-        <td><a href="https://link.springer.com/chapter/10.1007/978-3-031-45857-6_14">A Continual Learning Approach for Cross-Domain White Blood Cell Classification</a></td>
-        <td>2023</td>
-        <td>MICCAI</td>
-        <td><a href="https://github.com/marrlab/UACL">GitHub</a></td>
-    </tr>
-    <tr>
         <td><a href="https://arxiv.org/pdf/2305.05738.pdf">DOCTOR: A Multi-Disease Detection Continual Learning Framework Based on Wearable Medical Sensors</a></td>
         <td>2023</td>
         <td>Preprint</td>
@@ -56,6 +50,12 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
         <td>2023</td>
         <td>TMI</td>
         <td><a href="https://github.com/zzw-szu/CoNuSeg">GitHub</a></td>
+    </tr>
+    <tr>
+            <td><a href="https://arxiv.org/pdf/2303.13752.pdf">Leveraging Old Knowledge to Continually Learn New Classes in Medical Images</a></td>
+            <td>2023</td>
+            <td>CVPR</td>
+            <td><a href="https://github.com/EvelynChee/LO2LN.git">GitHub</a></td>
     </tr>
     <tbody>
 </table>
@@ -213,6 +213,12 @@ Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse
         <td><a href="https://github.com/jingyzhang/S3R">GitHub</a></td>
         </tr>
         <tr>
+        <td><a href="https://link.springer.com/chapter/10.1007/978-3-031-45857-6_14">A Continual Learning Approach for Cross-Domain White Blood Cell Classification</a></td>
+        <td>2023</td>
+        <td>MICCAI</td>
+        <td><a href="https://github.com/marrlab/UACL">GitHub</a></td>
+        </tr>
+        <tr>
             <td><a href="https://arxiv.org/pdf/2306.00988.pdf">Continual Learning for Abdominal Multi-Organ and Tumor Segmentation</a></td>
             <td>2023</td>
             <td>MICCAI</td>
@@ -223,12 +229,6 @@ Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse
             <td>2023</td>
             <td>MICCAI</td>
             <td>None</td>
-        </tr>
-        <tr>
-            <td><a href="https://arxiv.org/pdf/2303.13752.pdf">Leveraging Old Knowledge to Continually Learn New Classes in Medical Images</a></td>
-            <td>2023</td>
-            <td>CVPR</td>
-            <td><a href="https://github.com/EvelynChee/LO2LN.git">GitHub</a></td>
         </tr>
     <tbody>
 </table>
