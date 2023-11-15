@@ -171,6 +171,12 @@ Task-Incremental Learning (TIL) aims to learn a sequence of different tasks, whe
             <td>Preprint</td>
             <td><a href="https://github.com/yhygao/universal-medical-image-segmentation">GitHub</a></td>
         </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2310.02000.pdf">MUSCLE: Multi-task Self-supervised Continual Learning to Pre-train Deep Models for X-ray Images of Multiple Body Parts</a></td>
+            <td>2023</td>
+            <td>Preprint</td>
+            <td>None</td>
+        </tr>
     <tbody>
 </table>
 
