@@ -34,12 +34,6 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
   </thead>
   <tbody>
     <tr>
-        <td><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10078916">S3R: Shape and Semantics-based Selective Regularization for Explainable Continual Segmentation across Multiple Sites</a></td>
-        <td>2023</td>
-        <td>Transactions on Medical Imaging</td>
-        <td><a href="https://github.com/jingyzhang/S3R">GitHub</a></td>
-    </tr>
-    <tr>
         <td><a href="https://arxiv.org/abs/2304.14572">SCOPE: Structural Continuity Preservation for Medical Image Segmentation</a></td>
         <td>2023</td>
         <td>Preprint</td>
@@ -200,6 +194,12 @@ Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse
     </tr>
   </thead>
     <tbody>
+        <tr>
+        <td><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10078916">S3R: Shape and Semantics-based Selective Regularization for Explainable Continual Segmentation across Multiple Sites</a></td>
+        <td>2023</td>
+        <td>Transactions on Medical Imaging</td>
+        <td><a href="https://github.com/jingyzhang/S3R">GitHub</a></td>
+        </tr>
         <tr>
             <td><a href="https://arxiv.org/pdf/2306.00988.pdf">Continual Learning for Abdominal Multi-Organ and Tumor Segmentation</a></td>
             <td>2023</td>
