@@ -370,6 +370,12 @@ Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse
             <td>preprint</td>
             <td>None</td>
         </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2311.00548.pdf">Continual atlas-based segmentation of prostate MRI</a></td>
+            <td>2024</td>
+            <td>WACV</td>
+            <td><a href="https://github.com/MECLabTUDA/Atlas-Replay">GitHub</a></td>
+        </tr>
     <tbody>
 </table>
 
