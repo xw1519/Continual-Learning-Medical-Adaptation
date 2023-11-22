@@ -262,6 +262,12 @@ Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse
             <td>CVPR</td>
             <td>None</td>
         </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2309.00688.pdf">Jointly Exploring Client Drift and Catastrophic Forgetting in Dynamic Learning</a></td>
+            <td>2023</td>
+            <td>preprint</td>
+            <td>None</td>
+        </tr>
     <tbody>
 </table>
 
