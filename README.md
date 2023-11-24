@@ -418,7 +418,7 @@ Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse
 </table>
 
 ## CONTINUAL LEARNING BASELINES
-Finetune is typically employed as the baseline model without incorporating any mechanisms to mitigate forgetting. Others are listed below.
+Finetune is typically employed as the baseline model without incorporating any mechanisms to mitigate forgetting. Others are listed below, based on the tasks or CL techniques applied.
 <table>
   <colgroup>
     <col style="width:60%">
@@ -428,7 +428,7 @@ Finetune is typically employed as the baseline model without incorporating any m
   <thead>
     <tr>
       <th>Paper Title</th>
-      <th>Techniques</th>
+      <th>Technique/Task</th>
       <th>Code</th>
     </tr>
   </thead>
@@ -452,6 +452,16 @@ Finetune is typically employed as the baseline model without incorporating any m
             <td><a href="https://arxiv.org/abs/1704.01920">Encoder Based Lifelong Learning</a></td>
             <td>Regularization-based</td>
             <td><a href="https://github.com/rahafaljundi/Encoder-Based-Lifelong-learning">GitHub</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/1907.13372.pdf">Incremental Learning Techniques for Semantic Segmentation</a></td>
+            <td>CSS</td>
+            <td><a href="https://github.com/LTTM/IL-SemSegm">GitHub</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2002.00718.pdf">Modeling the Background for Incremental Learning in Semantic Segmentation</a></td>
+            <td>CSS</td>
+            <td><a href="https://github.com/fcdl94/MiB">GitHub</a></td>
         </tr>
     <tbody>
 </table>
