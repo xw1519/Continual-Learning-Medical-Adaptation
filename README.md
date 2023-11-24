@@ -136,7 +136,7 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
 ## TASK-INCREMENTAL LEARNING (TIL)
 Task-Incremental Learning (TIL) aims to learn a sequence of different tasks, where task identities are provided in both training and testing stages. Its optimization strategies observe challenges in medical settings.
 
-### Model Generalizability   
+### Model Versatility    
 <table>
   <colgroup>
     <col style="width:60%">
@@ -182,6 +182,38 @@ Task-Incremental Learning (TIL) aims to learn a sequence of different tasks, whe
             <td>2023</td>
             <td>MICCAI</td>
             <td><a href="https://github.com/GiantJun/CL_Pytorch">GitHub</a></td>
+        </tr>
+    <tbody>
+</table>
+
+### Knowledge Conflict
+<table>
+  <colgroup>
+    <col style="width:60%">
+    <col style="width:10%">
+    <col style="width:20%">
+    <col style="width:10%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Paper Title</th>
+      <th>Year</th>
+      <th>Conference/Journal</th>
+      <th>Code</th>
+    </tr>
+  </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2302.00162.pdf">Continual Segment: Towards a Single, Unified and Non-forgetting Continual Segmentation Model of 143 Whole-body Organs in CT Scans</a></td>
+            <td>2023</td>
+            <td>ICCV</td>
+            <td>None</td>
+        </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2203.02100.pdf">Learning Incrementally to Segment Multiple Organs in a CT Image</a></td>
+            <td>2022</td>
+            <td>MICCAI</td>
+            <td>None</td>
         </tr>
     <tbody>
 </table>
