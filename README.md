@@ -186,6 +186,32 @@ Task-Incremental Learning (TIL) aims to learn a sequence of different tasks, whe
     <tbody>
 </table>
 
+### Lack of Annotated Data
+<table>
+  <colgroup>
+    <col style="width:60%">
+    <col style="width:10%">
+    <col style="width:20%">
+    <col style="width:10%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>Paper Title</th>
+      <th>Year</th>
+      <th>Conference/Journal</th>
+      <th>Code</th>
+    </tr>
+  </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2311.17597.pdf">Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning</a></td>
+            <td>2023</td>
+            <td>preprint</td>
+            <td><a href="https://github.com/yeerwen/MedCoSS">GitHub</a></td>
+        </tr>
+      <tbody>
+</table>
+
 ### Knowledge Conflict
 <table>
   <colgroup>
@@ -305,12 +331,6 @@ Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse
             <td>2022</td>
             <td>TMI</td>
             <td>None</td>
-        </tr>
-        <tr>
-            <td><a href="https://arxiv.org/pdf/2311.17597.pdf">Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning</a></td>
-            <td>2023</td>
-            <td>preprint</td>
-            <td><a href="https://github.com/yeerwen/MedCoSS">GitHub</a></td>
         </tr>
     <tbody>
 </table>
