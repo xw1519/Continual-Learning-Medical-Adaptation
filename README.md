@@ -300,6 +300,12 @@ Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse
             <td>preprint</td>
             <td>None</td>
         </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2211.04862.pdf">Domain-incremental Cardiac Image Segmentation with Style-oriented Replay and Domain-sensitive Feature Whitening</a></td>
+            <td>2022</td>
+            <td>TMI</td>
+            <td>None</td>
+        </tr>
     <tbody>
 </table>
 
