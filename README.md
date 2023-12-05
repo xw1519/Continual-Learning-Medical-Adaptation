@@ -306,6 +306,12 @@ Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse
             <td>TMI</td>
             <td>None</td>
         </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2311.17597.pdf">Continual Self-supervised Learning: Towards Universal Multi-modal Medical Data Representation Learning</a></td>
+            <td>2023</td>
+            <td>preprint</td>
+            <td><a href="https://github.com/yeerwen/MedCoSS">GitHub</a></td>
+        </tr>
     <tbody>
 </table>
 
