@@ -358,6 +358,12 @@ Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse
             <td>preprint</td>
             <td>None</td>
         </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2402.16664.pdf">LLM-Assisted Multi-Teacher Continual Learning for Visual Question Answering in Robotic Surgery</a></td>
+            <td>2024</td>
+            <td>preprint</td>
+            <td>None</td>
+        </tr>
     <tbody>
 </table>
 
