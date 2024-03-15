@@ -42,7 +42,7 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
     <tr>
         <td><a href="https://arxiv.org/pdf/2305.05738.pdf">DOCTOR: A Multi-Disease Detection Continual Learning Framework Based on Wearable Medical Sensors</a></td>
         <td>2023</td>
-        <td>Preprint</td>
+        <td>ACM</td>
         <td>None</td>
     </tr>
     <tr>
