@@ -402,6 +402,12 @@ Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse
             <td>preprint</td>
             <td>None</td>
         </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2402.05860.pdf">Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery</a></td>
+            <td>2024</td>
+            <td>IEEE TRANSACTIONS ON MEDICAL IMAGING</td>
+            <td><a href="https://github.com/XuMengyaAmy/Synthetic_CAT_SD">GitHub</a></td>
+        </tr>
     <tbody>
 </table>
 
