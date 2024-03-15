@@ -36,7 +36,7 @@ Class-Incremental Learning (CIL) aims to acquire a continuous data stream with n
     <tr>
         <td><a href="https://arxiv.org/abs/2304.14572">SCOPE: Structural Continuity Preservation for Medical Image Segmentation</a></td>
         <td>2023</td>
-        <td>Preprint</td>
+        <td>CVPR</td>
         <td>None</td>
     </tr>
     <tr>
