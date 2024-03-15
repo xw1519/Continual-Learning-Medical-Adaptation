@@ -288,6 +288,12 @@ Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse
             <td>MICCAI</td>
             <td>None</td>
         </tr>
+        <tr>
+            <td><a href="https://pubmed.ncbi.nlm.nih.gov/38401270/">Boosting knowledge diversity, accuracy, and stability via tri-enhanced distillation for domain continual medical image segmentation</a></td>
+            <td>2024</td>
+            <td>Medical Image Analysis</td>
+            <td>None</td>
+        </tr>
     <tbody>
 </table>
 
