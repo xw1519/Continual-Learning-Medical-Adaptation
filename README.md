@@ -191,6 +191,12 @@ Task-Incremental Learning (TIL) aims to learn a sequence of different tasks, whe
             <td>MICCAI</td>
             <td><a href="https://github.com/GiantJun/CL_Pytorch">GitHub</a></td>
         </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2302.00162">Continual Segment: Towards a Single, Unified and Non-forgetting Continual Segmentation Model of 143 Whole-body Organs in CT Scans</a></td>
+            <td>2023</td>
+            <td>ICCV</td>
+            <td>None</td>
+        </tr>
     <tbody>
 </table>
 
