@@ -375,13 +375,13 @@ Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse
         <tr>
             <td><a href="https://arxiv.org/pdf/2307.12625.pdf">De-confounding Representation Learning for Counterfactual Inference on Continuous Treatment via Generative Adversarial Network</a></td>
             <td>2023</td>
-            <td>preprint</td>
+            <td>Data Mining and Knowledge Discovery</td>
             <td>None</td>
         </tr>
         <tr>
             <td><a href="https://arxiv.org/pdf/2402.16664.pdf">LLM-Assisted Multi-Teacher Continual Learning for Visual Question Answering in Robotic Surgery</a></td>
             <td>2024</td>
-            <td>preprint</td>
+            <td>ICRA</td>
             <td>None</td>
         </tr>
         <tr>
