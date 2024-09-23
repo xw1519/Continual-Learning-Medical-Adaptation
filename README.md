@@ -384,6 +384,12 @@ Domain-Incremental Learning (DIL) aims to learn a consistent task across diverse
             <td>preprint</td>
             <td>None</td>
         </tr>
+        <tr>
+            <td><a href="https://arxiv.org/pdf/2407.08609">BiasPruner: Debiased Continual Learning for Medical Image Classification</a></td>
+            <td>2024</td>
+            <td>MICCAI</td>
+            <td><a href="https://github.com/nourhanb/BiasPruner">GitHub</a></td>
+        </tr>
     <tbody>
 </table>
 
