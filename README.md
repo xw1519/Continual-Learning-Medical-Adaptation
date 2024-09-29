@@ -1,4 +1,4 @@
-# Awesome-Continual-Learning-for-Medical-Image-Analysis
+![1536e219d87787983a7505c7b5e4ad4](https://github.com/user-attachments/assets/36f52f07-36bb-4c6f-9f4a-5593265abbaa)# Awesome-Continual-Learning-for-Medical-Image-Analysis
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Abstract
@@ -9,7 +9,15 @@ We welcome all researchers to contribute to this repository. If you have any que
 
 If you find our paper or this resource helpful, please consider citing: 
 ```
-The survey paper is coming soon.
+@article{wu2024continual,
+  title={Continual learning in medical image analysis: A survey},
+  author={Wu, Xinyao and Xu, Zhe and Tong, Raymond Kai-yu},
+  journal={Computers in Biology and Medicine},
+  volume={182},
+  pages={109206},
+  year={2024},
+  publisher={Elsevier}
+}
 ```
 
 
