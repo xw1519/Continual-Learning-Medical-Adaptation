@@ -1,4 +1,4 @@
-![1536e219d87787983a7505c7b5e4ad4](https://github.com/user-attachments/assets/36f52f07-36bb-4c6f-9f4a-5593265abbaa)# Awesome-Continual-Learning-for-Medical-Image-Analysis
+# Awesome-Continual-Learning-for-Medical-Image-Analysis
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Abstract
